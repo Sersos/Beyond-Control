@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Quelldateien">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Headerdateien">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Ressourcendateien">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Headerdateien\Console">
+      <UniqueIdentifier>{a658573f-3938-4103-b21c-b93c9c180da5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Headerdateien\Player">
+      <UniqueIdentifier>{ff73ac1e-3458-49d8-a634-d6d345d6bf69}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Headerdateien\Creature">
+      <UniqueIdentifier>{14c306a5-298d-49fd-ac86-6bc3dff3f74c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Headerdateien\World">
+      <UniqueIdentifier>{4864bea1-79dc-47e0-9af0-13fbb4dddecc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Quelldateien\Creature">
+      <UniqueIdentifier>{6977bba5-023e-45a2-af00-9add9c0859ab}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Quelldateien\World">
+      <UniqueIdentifier>{a75d9b6f-30a3-46d6-888d-21cb973c4836}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Quelldateien\Player">
+      <UniqueIdentifier>{5f63c3f2-8862-4c4d-9a9d-295e06f18928}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
